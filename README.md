@@ -45,4 +45,14 @@ python HandTrackingModule.py
 - `requirements.txt` – Python dependencies.
 
 
+## Screenshot
+https://github.com/PrabeshPathak2002/Hand-Tracking-using-mediapipe/blob/main/Screenshot%202025-06-07%20125049.png
+
+
+## Hand Landmarks
+https://github.com/PrabeshPathak2002/Hand-Tracking-using-mediapipe/blob/main/hand-landmarks.png
+
+
+
+
 
