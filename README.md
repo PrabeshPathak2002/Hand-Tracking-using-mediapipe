@@ -43,7 +43,6 @@ python HandTrackingModule.py
 - `HandTracking.py` – Simple script for hand tracking.
 - `HandTrackingModule.py` – Modular, class-based version with more features.
 - `requirements.txt` – Python dependencies.
-- `.gitignore` – Files and folders to ignore in git.
 
 
 
