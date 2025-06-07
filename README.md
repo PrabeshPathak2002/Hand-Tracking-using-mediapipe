@@ -46,11 +46,11 @@ python HandTrackingModule.py
 
 
 ## Screenshot
-< alt="Screenshot" src="https://github.com/PrabeshPathak2002/Hand-Tracking-using-mediapipe/blob/main/Screenshot%202025-06-07%20125049.png">
+![alt text](https://github.com/PrabeshPathak2002/Hand-Tracking-using-mediapipe/blob/main/Screenshot%202025-06-07%20125049.png "Screenshot")
 
 
 ## Hand Landmarks
-<alt="Hand-Landmarks" src="https://github.com/PrabeshPathak2002/Hand-Tracking-using-mediapipe/blob/main/hand-landmarks.png">
+![alt text](https://github.com/PrabeshPathak2002/Hand-Tracking-using-mediapipe/blob/main/hand-landmarks.png "Hand-Landmarks")
 
 
 
